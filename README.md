@@ -14,11 +14,4 @@ retro-terminal/
 └── public/
     └── index.html   # Retro terminal arayüzü
 
-### Ekstra öneriler:
-- GitHub repo ayarlarından **Description** kısmına: *“Paslı CRT retro terminal arayüzü — Ollama proxy ile çalışır”* yaz.  
-- **Topics** ekle: `retro`, `terminal`, `ollama`, `ai`, `nodejs`.  
-- Bir **screenshot** eklemen sayfayı çok daha çekici yapar.  
 
-Bunu yapınca repo sayfan “boş” görünmekten çıkıp daha profesyonel bir proje gibi duracak.  
-
-İstersen sana badge’lerle (Node.js, License, Stars vs.) süslenmiş bir versiyon da hazırlayabilirim. Onu da ister misin?
