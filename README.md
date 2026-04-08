@@ -2,7 +2,7 @@
 
 Paslı CRT tarzı retro terminal arayüzü — Ollama ile çalışır.
 
-## 🚀 Kurulum
+## Kurulum
 ```bash
 npm install
 npm start
